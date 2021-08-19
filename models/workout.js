@@ -69,6 +69,8 @@ const WorkoutSchema = new Schema({
             required: "Number of reps"
         },
 
+        
+
 
         
 
@@ -78,5 +80,9 @@ const WorkoutSchema = new Schema({
 
 
 });
+
+
+
+module.exports = Workout;
 
 
