@@ -10,7 +10,7 @@ Deployed Link: https://sleepy-inlet-80320.herokuapp.com/
 
 
  ## Description
- Create and track your workouts for up to seven days. Track total distanced travelled if you're doing a cardio training. Track combained weight total from your lst 7 workouts if you do ressitance training. 
+ Create and track your workouts for up to seven days. Track total distanced travelled if you're doing a cardio training. Track combained weight total from your last 7 workouts if you do ressitance training. 
 
  ## Table of Contents
  - [Installation](#howToInstall)
