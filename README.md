@@ -20,7 +20,7 @@ Deployed Link: https://sleepy-inlet-80320.herokuapp.com/
  - [Questions](#questions)
 
  ## Installation
- Click deployed link for full functionality. Feel free to clone repo, set yuour enviroment variables and run locally.
+ Click deployed link for full functionality. Feel free to clone repo, set up your own enviroment variables and run locally.
 
  ## Usage
  To Track workouts including Date, # of exercises, total weight lifted and total distanced travelled. 
